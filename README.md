@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/supertakumi86" target="blank"><img src="https://img.shields.io/twitter/follow/supertakumi86?logo=twitter&style=for-the-badge" alt="supertakumi86" /></a> </p>
 
-- 🔭 I’m currently working on [Parallax VPN](https://github.com/sohilladhani/ParallaxVPN)
-
 - 🌱 I’m currently learning **about Decentralized Internet**
 
 - 👨‍💻 All of my projects are available at [https://sohilladhani.com](https://sohilladhani.com)
