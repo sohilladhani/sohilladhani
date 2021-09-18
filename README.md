@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sohilladhani@gmail.com**
 
-- 📄 Know about my experiences [https://sohilladhani.com/resume/sohil_ladhani_resume.pdf](https://sohilladhani.com/resume/sohil_ladhani_resume.pdf)
-
 - ⚡ Fun fact **I can see the matrix**
 
 <h3 align="left">Connect with me:</h3>
