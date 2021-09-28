@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sohilladhani@gmail.com**
 
-- ⚡ Fun fact **I can see the matrix**
+- ⚡ Fun fact about me: **I can see the matrix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
